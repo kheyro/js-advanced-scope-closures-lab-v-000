@@ -10,7 +10,7 @@ function produceDrivingRange(blockRange) {
 }
 
 function produceTipCalculator(percent){
-  function() {
-    
+  function(tip) {
+
   }
 }
